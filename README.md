@@ -6,7 +6,7 @@
 <h4>I am currently pursuing a Bachelor of Science in Computer Science and Engineering.</h4>
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Problem+solving+go+brrrrrr" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Problem+solving+go+brrrrrr" alt="Typing SVG" /></a></div>
 - 🌱 I’m currently learning **Fullstack**
 
 - 📫 How to reach me **nayeemchowdhury.1999@gmail.com**
