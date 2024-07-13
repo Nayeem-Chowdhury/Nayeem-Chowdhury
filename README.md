@@ -37,7 +37,7 @@
 
 > First, solve the problem. Then, write the code. – John Johnson
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub-Jamil" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem-Chowdhury" />
 
 **Sports/Game/Activity/Hobby:**
 - Football
