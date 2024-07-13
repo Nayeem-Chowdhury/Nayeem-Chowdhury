@@ -50,7 +50,7 @@
 
 > Code is like humor. When you have to explain it, it’s bad. – Cory House
 
-![Nayeem Chowdhury GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayeem-Chowdhuryl&theme=radical&show_icons=true)
+![Nayeem Chowdhury GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayeem-Chowdhury&theme=radical&show_icons=true)
 
 > Coding like poetry should be short and concise. ― Santosh Kalwar
 
